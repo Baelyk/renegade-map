@@ -1,0 +1,40 @@
+[data-name=Ocean] {
+    fill: #8abbec;
+}
+
+[data-name="Land"] {
+    fill: #acd0a5;
+}
+
+[data-name="Land"], .\32 no-fill, [data-name=Countries] {
+    stroke: #000;
+}
+
+[data-name="Land"], .\32 no-fill, [data-name=Lakes], [data-name=Countries] {
+    stroke-miterlimit: 10;
+}
+
+[data-name=Lakes] {
+    fill: #c4e0f4;
+    stroke: #8abbec;
+}
+
+.\32 no-fill {
+    fill: none;
+}
+
+[data-name=Countries] {
+    /*All countries*/
+    fill: #acd0a5;
+}
+
+[data-name=Countries] g:hover {
+    /*Over bits of the country being hovered over*/
+    fill: #9dc79f;
+}
+
+[data-name=Countries] path:hover, .countryLabelHover {
+    /*The country bit being hovered over*/
+    fill: #89ab87;
+    cursor: pointer;
+}

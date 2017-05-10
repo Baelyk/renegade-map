@@ -1,0 +1,27 @@
+.\36 78d8ba0-415e-4dc4-ace7-95c54fa00cbf, [data-name=Lakes] {
+    fill: #C6ECFF;
+}
+
+[data-name=Land] {
+    fill: #E0E0E0;
+}
+
+[data-name=Lakes] {
+    stroke: #0978AB;
+}
+
+[data-name=Countries] {
+    /*All countries*/
+    fill: #E0E0E0;
+}
+
+[data-name=Countries] g:hover {
+    /*Over bits of the country being hovered over*/
+    fill: #F6E1B9;
+}
+
+[data-name=Countries] path:hover, .countryLabelHover {
+    /*The country bit being hovered over*/
+    fill: #FEFEE9;
+    cursor: pointer;
+}
