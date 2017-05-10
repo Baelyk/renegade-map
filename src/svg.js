@@ -1,8 +1,5 @@
 const countryInfo = [
   {
-    'id': 'Al-Ghazar',
-    'name': 'Al Ghazar'
-  }, {
     'id': 'Alhurriat-Walssalam',
     'name': 'Alhurriat Walssalam'
   }, {
@@ -34,9 +31,6 @@ const countryInfo = [
     'id': 'Costoars',
     'name': 'Costoars'
   }, {
-    'id': 'Daeliovania',
-    'name': 'Daeliovania'
-  }, {
     'id': 'Dansha',
     'name': 'Dansha'
   }, {
@@ -58,6 +52,9 @@ const countryInfo = [
     'id': 'Flowrisa',
     'name': 'Flowrisa',
     'info': 'For the interactive map: The Second Byzantine Empire, also known as Flowrisa, has a population of 250,679,600 and is ruled by Emperor Ian Van Gilze-Rijen. Flowrisa has a large economy, which is worth 12 trillion dollars. Flowrisa is made up of 12 provinces, and is made up of the mainland, also known as Ηπειρωτική χώρα, and 5 islands, Θήρα, Κρήτη, Ρόδος, Λήμνος, and Λέσβος. (Santorini, Crete, Rhodes, Limnos, and Lesvos).'
+  }, {
+    'id': 'IGU',
+    'name': 'Iceland-Greenland Union'
   }, {
     'id': 'IJsheiligenland',
     'name': 'IJsheiligenland'
@@ -98,6 +95,9 @@ const countryInfo = [
   }, {
     'id': 'Scepez',
     'name': 'Scepez'
+  }, {
+    'id': 'Shizensky',
+    'name': 'Shizensky'
   }, {
     'id': 'Sothern-Moshii',
     'name': 'Southern Moshii'
