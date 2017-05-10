@@ -1,1 +1,1 @@
-# renegade-map
+# Renegade Islands Alliance Map
