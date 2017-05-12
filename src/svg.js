@@ -168,7 +168,9 @@ function init () {
         }
         window.location = newLocation
       } else {
-        infodiv.innerHTML = `${getCountry(countryLabel.getAttribute('id'))['info']}`
+        if (getCountry(countryLabel.getAttribute('id'))['info'] !== undefined) {
+          infodiv.innerHTML = `${getCountry(countryLabel.getAttribute('id'))['info']}`
+        }
       }
     })
   })
