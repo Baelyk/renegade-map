@@ -68,6 +68,9 @@ const countryInfo = [
     'id': 'Kerguelen',
     'name': 'Kerguelen'
   }, {
+    'id': 'Korriban',
+    'name': 'Korriban'
+  }, {
     'id': 'Mailor',
     'name': 'Mailor'
   }, {
