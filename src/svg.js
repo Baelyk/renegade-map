@@ -65,6 +65,9 @@ const countryInfo = [
     'id': 'Itzlan',
     'name': 'Itzlan'
   }, {
+    'id': 'Jute',
+    'name': 'Jute'
+  }, {
     'id': 'Kerguelen',
     'name': 'Kerguelen'
   }, {
@@ -102,6 +105,9 @@ const countryInfo = [
     'id': 'Shizensky',
     'name': 'Shizensky'
   }, {
+    'id': 'Soranato',
+    'name': 'Soranato'
+  }, {
     'id': 'Sothern-Moshii',
     'name': 'Southern Moshii'
   }, {
@@ -124,6 +130,9 @@ const countryInfo = [
     'id': 'Timothia',
     'name': 'Timothia',
     'url': 'https://nationstates.net/Timothia'
+  }, {
+    'id': 'Ubaid',
+    'name': 'Ubaid'
   }, {
     'id': 'Usniya',
     'name': 'Usniya',
