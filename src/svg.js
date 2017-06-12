@@ -1,5 +1,8 @@
 const countryInfo = [
   {
+    'id': 'Acronius',
+    'name': 'Acronius'
+  }, {
     'id': 'Alhurriat-Walssalam',
     'name': 'Alhurriat Walssalam'
   }, {
@@ -40,6 +43,9 @@ const countryInfo = [
     'id': 'Daverda',
     'name': 'Daverda'
   }, {
+    'id': 'Deathfall',
+    'name': 'Deathfall'
+  }, {
     'id': 'Dixadoing',
     'name': 'Dixadoing'
   }, {
@@ -73,6 +79,9 @@ const countryInfo = [
   }, {
     'id': 'Korriban',
     'name': 'Korriban'
+  }, {
+    'id': 'Kzaria',
+    'name': 'Kzaria'
   }, {
     'id': 'Mailor',
     'name': 'Mailor'
