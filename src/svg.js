@@ -3,14 +3,11 @@ const countryInfo = [
     'id': 'Acronius',
     'name': 'Acronius'
   }, {
+    'id': 'Aetaris',
+    'name': 'Aetaris'
+  }, {
     'id': 'Alhurriat-Walssalam',
     'name': 'Alhurriat Walssalam'
-  }, {
-    'id': 'Aonadh-Ceilteach',
-    'name': 'Aonadh Ceilteach'
-  }, {
-    'id': 'Avernimia',
-    'name': 'Avernimia'
   }, {
     'id': 'Babylatia',
     'name': 'Awgaws Komten',
@@ -31,17 +28,11 @@ const countryInfo = [
     'id': 'Candro',
     'name': 'Candro'
   }, {
-    'id': 'Costoars',
-    'name': 'Costoars'
-  }, {
     'id': 'Dansha',
     'name': 'Dansha'
   }, {
     'id': 'Darrenne',
     'name': 'Darenne'
-  }, {
-    'id': 'Daverda',
-    'name': 'Daverda'
   }, {
     'id': 'Deathfall',
     'name': 'Deathfall'
@@ -49,21 +40,12 @@ const countryInfo = [
     'id': 'Dixadoing',
     'name': 'Dixadoing'
   }, {
-    'id': 'Elarinia',
-    'name': 'Elarinia'
-  }, {
-    'id': 'Erppreland',
-    'name': 'Erppreland'
-  }, {
     'id': 'Flowrisa',
     'name': 'Flowrisa',
     'info': 'For the interactive map: The Second Byzantine Empire, also known as Flowrisa, has a population of 250,679,600 and is ruled by Emperor Ian Van Gilze-Rijen. Flowrisa has a large economy, which is worth 12 trillion dollars. Flowrisa is made up of 12 provinces, and is made up of the mainland, also known as Ηπειρωτική χώρα, and 5 islands, Θήρα, Κρήτη, Ρόδος, Λήμνος, and Λέσβος. (Santorini, Crete, Rhodes, Limnos, and Lesvos).'
   }, {
     'id': 'IGU',
     'name': 'Iceland-Greenland Union'
-  }, {
-    'id': 'IJsheiligenland',
-    'name': 'IJsheiligenland'
   }, {
     'id': 'Infinium',
     'name': 'Infinium'
@@ -83,30 +65,14 @@ const countryInfo = [
     'id': 'Kzaria',
     'name': 'Kzaria'
   }, {
-    'id': 'Mailor',
-    'name': 'Mailor'
-  }, {
     'id': 'Oxihydronia',
     'name': 'Oxihydronia'
-  }, {
-    'id': 'Pallamara',
-    'name': 'Pallamara'
   }, {
     'id': 'Pensyltuckee-Island',
     'name': 'Pensyltuckee Island'
   }, {
-    'id': 'Pomaira',
-    'name': 'Pomaira'
-  }, {
-    'id': 'Potenze',
-    'name': 'Potenze',
-    'url': 'https://nationstates.net/Potenze'
-  }, {
     'id': 'Riveti',
     'name': 'Riveti'
-  }, {
-    'id': 'Sandover-Beach',
-    'name': 'Sandover Beach'
   }, {
     'id': 'Scepez',
     'name': 'Scepez'
@@ -119,14 +85,6 @@ const countryInfo = [
   }, {
     'id': 'Sothern-Moshii',
     'name': 'Southern Moshii'
-  }, {
-    'id': 'Spiassau',
-    'name': 'Spiassau',
-    'info': 'Spiassau is an Usniyan satellite that will soon be home to a major spaceport.'
-  }, {
-    'id': 'Svetlyak',
-    'name': 'Svetlyak',
-    'info': 'Svetlyak is an Usniyan satellite state that serves as a major naval port.'
   }, {
     'id': 'Madness-and-Insanity',
     'name': 'The Land of Madness and Insanity'
@@ -146,9 +104,6 @@ const countryInfo = [
     'id': 'Usniya',
     'name': 'Usniya',
     'info': 'Usniya is a global superpower and single party federal socialist republic.'
-  }, {
-    'id': 'Vormany',
-    'name': 'Vormany'
   }, {
     'id': 'Zhouyou',
     'name': 'Zhouyou',
