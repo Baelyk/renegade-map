@@ -56,6 +56,9 @@ const countryInfo = [
     'id': 'Jute',
     'name': 'Jute'
   }, {
+    'id': 'Kalinkov',
+    'name': 'Kalinkov'
+  }, {
     'id': 'Kerguelen',
     'name': 'Kerguelen'
   }, {
